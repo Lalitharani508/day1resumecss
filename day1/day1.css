@@ -1,0 +1,45 @@
+*{
+    background-color:#E4B1F0;
+}
+.a{
+    background-color:yellow;
+    color:red;
+}
+.b{
+    color:blueviolet;
+}
+.c{
+    color:brown
+}
+#d{
+    color: aqua;
+    width: 3px;
+}
+#e{
+    color: aqua;
+}
+#f{
+    color: aqua;
+}
+.g{
+    color: green;
+}
+.o{
+    color: chartreuse;
+}
+.i{
+    color: blue;
+    background-color: red;
+}
+.p{
+    color: brown;
+    background-color: darkcyan;
+}
+.l{
+    background-color: #536493;
+    color: #FF77B7;
+}
+.s{
+    background-color: #F95454;
+    color:#00FF9C;
+}
